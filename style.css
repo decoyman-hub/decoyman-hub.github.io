@@ -6,7 +6,7 @@ p {
   color: #000000;
 }
 
-.content-box {
+.box {
   border: 1px solid black;
   border-radius: 10px;
   padding: 1rem 1.5rem;
