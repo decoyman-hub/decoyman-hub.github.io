@@ -1,5 +1,13 @@
-layout: page
-title: "ABOUT???"
-permalink: /about
-
-cool
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/decoyman.github.io/style.css">
+</head>
+<body>
+<h1>about</h1>
+<hr>
+<p>im scared i will never be held or loved in this world</p>
+<hr>
+<p><a href="../">aah! i'm scared! take me back!</a></p>
+</body>
+</html>
