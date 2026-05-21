@@ -6,7 +6,7 @@ p {
   color: #000000;
 }
 
-.content-box{
+.content-box {
   background-color: rgba(0, 0, 0, 0.85);
   color: #ffffff
   padding: 30px;
@@ -15,7 +15,7 @@ p {
   margin-top: 40px;
 }
 
-.content-box a{
+.content-box a {
   color: #4da6ff;
 }
 
